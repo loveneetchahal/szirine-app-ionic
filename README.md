@@ -1,4 +1,4 @@
-# szirine-app
+# szirine-app ionic 4
 
 ## Docs
 
